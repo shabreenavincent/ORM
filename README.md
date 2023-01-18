@@ -48,4 +48,4 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 ## RESULT
 
-Program executed successfully
+Program executed Successfully
